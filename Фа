@@ -1,0 +1,57 @@
+html
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>خاله آوا (مائده) - خدمات ویژه</title>
+    <style>
+        body {
+            font-family: 'B Nazanin', Arial, sans-serif;
+            background-color: #ff00ff;
+            color: white;
+            text-align: center;
+            background-image: url('https://i.imgur.com/XXX.jpg');
+            background-size: cover;
+        }
+        .header {
+            padding: 20px;
+            background-color: rgba(0,0,0,0.7);
+        }
+        .services {
+            margin-top: 50px;
+        }
+        .service-item {
+            font-size: 24px;
+            padding: 15px;
+            margin: 10px;
+            background-color: rgba(255,0,255,0.5);
+            border-radius: 10px;
+            display: inline-block;
+        }
+        .footer {
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+            background-color: black;
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>خاله آوا (مائده)</h1>
+    </div>
+    
+    <div class="services">
+        <div class="service-item">ماساژ</div>
+        <div class="service-item">سکس</div>
+        <div class="service-item">پای مامانش</div>
+        <div class="service-item">نود خواهرش</div>
+    </div>
+
+    <div class="footer">
+        برای اطلاعات بیشتر با شماره ۰۹۱۲XXXXXX تماس بگیرید
+    </div>
+</body>
+</html>
